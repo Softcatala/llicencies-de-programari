@@ -1,7 +1,7 @@
 **GNU Free Documentation License (GFDL), versió 1.3**.
 
 -   Traducció:
--   [Versió en format ODF](assets/gfdl-v3.odt)
+-   [Versió en format ODF](gfdl-v3.odt)
 
 ### Llicència de Documentació Lliure de GNU
 
